@@ -1,2 +1,2 @@
 # Text-Based-Game "Treasure Island"
-Adventure text-based game in C++ in which the player's path depends on the decisions they make.
+A text-based adventure game written in C++ in which your decisions will decide your fate on Treasure Island!
